@@ -1,0 +1,10 @@
+{
+    "name": "Spain's TV Channels",
+    "name:es": "TV España",
+    "id": "com.getwatchthis.tv-es",
+    "version": "1",
+    "kind": "tv",
+    "image": "flag:es",
+    "short_description": "TV channels from Spain",
+    "short_description:es": "Canales de televisión de España"
+}
