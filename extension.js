@@ -7,6 +7,7 @@ function channels(req) {
         // ["FDF", "fdf.png", "http://cdn.sstream.pw/live/fdfhd_xrewtt/playlist.m3u8#header:Referer=http%3A%2F%2Fwww.ponlatv.com%2F"],
         ["Divinity", "divinity.png", "http://cdn.sstream.pw/live/diniiiii_9fil4ag/playlist.m3u8#header:Referer=http%3A%2F%2Fwww.ponlatv.com%2F"],
         ["Energy", "energy.png", "http://cdn.sstream.pw/live/energy_azhls60/playlist.m3u8#header:Referer=http%3A%2F%2Fwww.ponlatv.com%2F"],
+        ["Euronews", "euronews.png", "http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_es.m3u8"],
         ["La Sexta", "lasexta.png", "http://a3live-lh.akamaihd.net/i/l6hls/lasexta_1@35272/master.m3u8"],
         ["Neox", "neox.png", "http://cdn.sstream.pw/live/neox_alwkw2n/playlist.m3u8#header:Referer=http%3A%2F%2Fwww.ponlatv.com%2F"],
         ["Nova", "nova.png", "http://cdn.sstream.pw/live/nova2_acolsfq/playlist.m3u8#header:Referer=http%3A%2F%2Fwww.ponlatv.com%2F"],
